@@ -1,9 +1,6 @@
 [submodule ".tmux"]
 	path = .tmux
 	url = https://github.com/nicolasmelo1/tmux-config
-[submodule ".nvim"]
-	path = .nvim
-	url = https://github.com/nicolasmelo1/nvim-config
 [submodule "kitty"]
 	path = kitty
 	url = https://github.com/nicolasmelo1/kitty-config
