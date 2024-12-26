@@ -1,0 +1,12 @@
+[submodule "nvim-config"]
+	path = nvim-config
+	url = https://github.com/nicolasmelo1/nvim-config
+[submodule ".tmux"]
+	path = .tmux
+	url = /Users/nicolasmelo/.tmux
+[submodule "kitty"]
+	path = kitty
+	url = /Users/nicolasmelo/.config/kitty
+[submodule "nvim"]
+	path = nvim
+	url = /Users/nicolasmelo/.config/nvim
