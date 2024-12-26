@@ -4,3 +4,6 @@
 [submodule "kitty"]
 	path = kitty
 	url = https://github.com/nicolasmelo1/kitty-config
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/nicolasmelo1/nvim-config
